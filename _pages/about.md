@@ -2,7 +2,7 @@
 layout: about
 title: Kevin Nam
 permalink: /
-subtitle: Ph.D Candidate, <a href="https://sor.snu.ac.kr" target="_blank">SORLab</a>, Seoul National University
+subtitle: Ph.D Candidate, <a href="sor.snu.ac.kr" target="_blank">SORLab</a>, Seoul National University
 
 profile:
   align: right
