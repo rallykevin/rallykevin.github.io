@@ -6,7 +6,7 @@ subtitle: Ph.D Candidate, <a href="https://sor.snu.ac.kr" target="_blank">SORLab
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: kvnam.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
