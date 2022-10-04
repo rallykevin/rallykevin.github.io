@@ -18,7 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-The bodies of these threads are under construction.
+My blog is under severe but lazy reconstruction!!
+
+I am a Ph.D candidate studying in Security Optimization Lab in Seoul National University, advised by professor  <a href="http://sor.snu.ac.kr/document/professors">Yunheung Paek</a>. My technical background were mostly based on hardware developing, but during the recent years, I have worked on a variety of topics, including not only HW security but also privacy preserving techniques, such as fully homomorphic encryption, Trusted Execution Environments, and Multi-Party Computation.
 
 <!--
 
