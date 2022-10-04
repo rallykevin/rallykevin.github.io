@@ -9,9 +9,9 @@ profile:
   image: kvnam.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>+82 10 2443 7250</p>
+    <p>room no. 516-1, building no. 302</p>
+    <p>1 Gwanak-ro, Gwanak-gu, Seoul, Republic of Korea</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

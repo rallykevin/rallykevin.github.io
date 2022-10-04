@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rallykevin
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rallykevin/enigma
+  - rallykevin/XHEC
+  - ilachill/MK-TFHE
+  - rallykevin/SS_PQC
