@@ -9,7 +9,7 @@
       value: French, English, Korean
     - name: Programming Languages
       value: C, C++, Python, Verilog
-    - name: Programming Env. and HW EDA Tools
+    - name: HW EDA Tools
       value: Linux, Xilinx(Vivado, Vitis, HLS), Cadence(Xcelium), Synopsys(Design Compiler)
 
 - title: Education
@@ -21,19 +21,27 @@
       description:
         - Electrical and Computer Engineering (ECE)
 
-- title: Participating Research Projects
+- title: Research Experience
   type: time_table
   contents:
     - title : Post-Quantum-Cryptography Hardware Accelerator (w. Samsung LSI)
       year: 2020-Now
       description: This project's goal is to design PQC modules that are to be implemented in devices (e.g., smartphoes, IPTV) as HW components. As co-team manager, I participated in most of the process from algorithm analysis to HW implementation. (This project is a Industry-University Cooperation Research between Samsung and SORLab)
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: XHEC - Accelerating Homomorphic Encryption Computing
-      year: 2020-Now
-      description: Framework that automatically maps Homomorphic Encryption Computing on FPGAs. 
+    - title : FPGA Accelerator for FHE (funded by National Intelligence Service)
+      year: 2021
+      description: This project was funded by NIS to design HW accelerator to accelerate FHE computation.
+    - title : Implementing Zero-error PPAI (funded by National Intelligence Service)
+      year: 2022
+      description: This project was funded by NIS to design a Zero-error Privacy Preserving AI inference framework. The framework is implemented using multiple privacy-preserving techniques.
+    - title : Accuracte Privacy-Preserving RNN (funded by National Intelligence Service)
+      year: 2023-Now
+      description: This project's goal is to design a privacy-preserving RNN. Similar to the previous year's work, we aim to find a new approach in efficiently implementing Privacy Preserving Techniques for accurate RNN computing, which would lead to huge models as transformers.
+    - title : FPGA Accelerator for CKKS (funded by CryptoLab)
+      year: 2022
+      description: This project was funded by CryptoLab to design FPGA accelerator for the well-known specific FHE scheme, CKKS. This is a cornerstone research to develop HW Intellectual Property for CryptoLab.
+    - title : Secure and Efficient CKKS Computation on Cloud (funded by CryptoLab)
+      year: 2023-Now
+      description: This project's goal is to design a secure and efficient technique to compute CKKS on cloud environment. This is a cornerstone research to develop a SaaS on cloud.
 
 - title: Honors and Awards
   type: time_table
@@ -63,4 +71,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Baseball etc.
+    - <u>Hobbies:</u> Baseball, Painting etc.
