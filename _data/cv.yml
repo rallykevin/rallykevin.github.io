@@ -26,8 +26,7 @@
   contents:
     - title : Post-Quantum-Cryptography Hardware Accelerator (w. Samsung LSI)
       year: 2020-Now
-      description: This project's goal is to design PQC modules that are to be implemented in devices (e.g., smartphoes, IPTV) as HW components. As co-team manager, I participated in most of the process from algorithm analysis to HW implementation.
-      (This project is a Industry-University Cooperation Research between Samsung and SORLab)
+      description: This project's goal is to design PQC modules that are to be implemented in devices (e.g., smartphoes, IPTV) as HW components. As co-team manager, I participated in most of the process from algorithm analysis to HW implementation. (This project is a Industry-University Cooperation Research between Samsung and SORLab)
 
 - title: Open Source Projects
   type: time_table
