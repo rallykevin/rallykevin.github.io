@@ -23,7 +23,7 @@
     - title : Secure and Efficient CKKS Computation on Cloud (funded by CryptoLab)
       year: 2023-Now
       description: This project's goal is to design a secure and efficient technique to compute CKKS on cloud environment. This is a cornerstone research to develop a SaaS on cloud.
-    - title : Accuracte Privacy-Preserving RNN (funded by National Intelligence Service)
+    - title : Accurate Privacy-Preserving RNN (funded by National Intelligence Service)
       year: 2023-Now
       description: This project's goal is to design a privacy-preserving RNN. Similar to the previous year's work, we aim to find a new approach in efficiently implementing Privacy Preserving Techniques for accurate RNN computing, which would lead to huge models as transformers.
     - title : Implementing Zero-error PPAI (funded by National Intelligence Service)
