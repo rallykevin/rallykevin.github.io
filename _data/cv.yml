@@ -49,6 +49,9 @@
     - year: 2021
       items: 
         - Undang Academic Award (<a href="http://kips.or.kr/best">(link)</a>)
+    - year: 2021
+      items:
+        - Best Paper Award in ASK2021 (<a href="http://kips.or.kr/bbs/confn/article/1761">(link)</a>)
 
 - title: Academic Interests
   type: nested_list
