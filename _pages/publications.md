@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: The full list of publications can be found <a href="https://scholar.google.com/citations?hl=en&user=CsJKBq4AAAAJ">here</a>, my google scholar profile.
+description: The full list of publications can be found in my google scholar profile.
 years: [2025, 2023, 2022, 2021]
 nav: true
 nav_order: 1
