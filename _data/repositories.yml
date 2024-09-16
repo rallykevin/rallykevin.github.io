@@ -1,8 +1,12 @@
 github_users:
   - rallykevin
+  - SNUSOR-PECT
 
 github_repos:
   - rallykevin/enigma
   - rallykevin/XHEC
-  - ilachill/MK-TFHE
   - rallykevin/SS_PQC
+  - SNUSOR-PECT/CACHE
+  - SNUSOR-PECT/LOHEN
+  - SNUSOR-PECT/RNNFHE
+  - SNUSOR-PECT/DRAMsim3_HBM_PIM

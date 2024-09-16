@@ -20,6 +20,12 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title : NoZero-Error Computing Neural Networks over Encrypted Data:Beyond Mathematical Methods (funded by NRF)
+      year: 2023-Now
+      description: Research on designing efficient and accurate neural network services over encrypted data using various non-mathematical approaches.
+    - title : Neural Network Program to FHE Transpiler (funded by ETRI)
+      year: 2023
+      description: Designing a transpiling process from neural network programs (e.g., Tensorflow, PyTorch) to FHE programs (e.g., MS SEAL, TFHE-rs).
     - title : Secure and Efficient CKKS Computation on Cloud (funded by CryptoLab)
       year: 2023-Now
       description: This project's goal is to design a secure and efficient technique to compute CKKS on cloud environment. This is a cornerstone research to develop a SaaS on cloud.
@@ -36,9 +42,8 @@
       year: 2021
       description: This project was funded by NIS to design HW accelerator to accelerate FHE computation.
     - title : Post-Quantum-Cryptography Hardware Accelerator (w. Samsung LSI)
-      year: 2020-Now
-      description: This project's goal is to design PQC modules that are to be implemented in devices (e.g., smartphoes, IPTV) as HW components. As co-team manager, I participated in most of the process from algorithm analysis to HW implementation. (This project is a Industry-University Cooperation Research between Samsung and SORLab)
-    
+      year: 2020-2024
+      description: This project's goal is to design PQC modules that are to be implemented in devices (e.g., smartphoes, IPTV) as HW components. As co-team manager, I participated in most of the process from algorithm analysis to HW implementation.
     
     
     
@@ -48,13 +53,13 @@
   contents:
     - year: 2023
       items: 
-        - ASK 2023 NIPA Director Award
+        - ASK2023 NIPA Director Award, KIPS
     - year: 2021
       items: 
-        - Undang Academic Award (<a href="http://kips.or.kr/best">(link)</a>)
+        - Undang Academic Award, KIPS
     - year: 2021
       items:
-        - Best Paper Award in ASK2021 (<a href="http://kips.or.kr/bbs/confn/article/1761">(link)</a>)
+        - ASK2021 Best Paper Award, ASK2021
 
 - title: Academic Interests
   type: nested_list
@@ -62,7 +67,7 @@
     - title: HW Security
       items: 
         - HW monitoring
-        - Baclk-boxing HW modules
+        - Black-boxing HW modules
     - title: Privacy Preserving Techniques
       items:
         - Fully Homomorphic Encryption (FHE)

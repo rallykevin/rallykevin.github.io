@@ -4,4 +4,4 @@ date: 2022-07-15 07:59:00-0400
 inline: true
 ---
 
-XHEC got accepted in ICCAD 2022
+XHEC is accepted to ICCAD 2022
