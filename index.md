@@ -2,21 +2,15 @@
 layout: homepage
 ---
 
-## About Me
+<h1 id="about-me"></h1>
 
-I am a Ph.D. student at ...
+<h2 style="margin: 80px 0px 10px;"></h2>
 
-## Research Interests
+I am a Ph.D candidate studying at Security Optimization Lab (<a href="http://sor.snu.ac.kr/">SORLab</a>) in Seoul National University, advised by professor  <a href="http://sor.snu.ac.kr/document/professors">Yunheung Paek</a>.
+I hold a Bachelor of Science in Electrical and Computer Engineering from the same university, with a focus on hardware/system/AI security and privacy.
+However, my research fields are not limited to them. Back when I was an undergraduate student, I had been deeply passionate about hardware design and computer architecture, and I am currently enrolled in several research on high-performance domain-specific computation.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+My research interests have expanded since then, including security and privacy-preserving (enhancing) computation. My current core research topics include the deployment of homomorphic encryption, multi-party computation, and trusted execution environments to specific applications including customizing and accelerating them.
 
 {% include_relative _includes/news.md %}
 
