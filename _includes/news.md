@@ -1,11 +1,11 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Jan. 2025]</strong> LOHEN is accepted to USENIX Security 2025.</li>
+<li><strong>[Jan. 2025]</strong> THEIM is accepted to ASPLOS 2025.</li>
 <li><strong>[Oct. 2024]</strong> I will serve as EuroSys Shadow Program Committee.</li>
 <li><strong>[Aug. 2024]</strong> LOHEN is accepted to USENIX Security 2025.</li>
 <li><strong>[Jun. 2023]</strong> I won the ASK 2023 NIPA Director Award. </li>
-<li><strong>[Jul. 2022]</strong> XHEC is accepted to ICCAD 2022!</li>
+<li><strong>[Jul. 2022]</strong> XHEC is accepted to ICCAD 2022.</li>
   
 
 <li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
