@@ -11,13 +11,11 @@ main:
     image: ../assets/img/coming_soon.png
     notes: "To Appear, Acceptance Rate : 12%"
 
-  - title: <strong style="color:#2d92f0">"LOHEN: Layer-wise Optimizations for Neural Network Inferences over Encrypted Data with high Performance or Accuracy"</strong>
-    authors: <strong style="color:#2fd216">Kevin Nam</strong>, Youyeon Joo, Donju Lee, Seungjin Ha, Hyunyoung Oh, Hyungon Moon*, Yunheung Paek* (*Corresponding authors)
-    conference_short: Security
-    conference: the 34th USENIX security symposium <strong>(USENIX Security)</strong>, 2025.
-    #pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/SNUSOR-PECT/LOHEN
-    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ../assets/img/coming_soon2.png
-    notes: "To Appear, Acceptance Rate : 18%"
+  - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
+    authors: Yuanhao Cai, Zihao Xiao, Yixun Liang, Minghan Qin, Yulun Zhang, Xiaokang Yang, <strong>Yaoyao Liu</strong>, Alan Yuille
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://www.cs.jhu.edu/~alanlab/Pubs24/cai2024hdr-gs.pdf
+    bibtex: https://dblp.org/rec/journals/corr/abs-2405-15125.html?view=bibtex
+    code: https://github.com/caiyuanhao1998/HDR-GS
+    image: https://img.yliu.me/teaser/hdr-gs.png
