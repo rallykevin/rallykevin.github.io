@@ -8,7 +8,7 @@ main:
     code: https://github.com/SNUSOR-PECT/DRAMsim3_HBM_PIM
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ../assets/img/coming_soon.png
-    notes: Acceptance Rate : 12%
+    notes: Oral Presentation
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
