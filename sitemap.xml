@@ -41,4 +41,11 @@
  <changefreq>weekly</changefreq>
 </url>
 
+<url>
+ <loc>https://rallykevin.github.io/aboutme/</loc>
+ <priority>1.0</priority>
+ <lastmod>2024-08-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
 </urlset>
