@@ -1,6 +1,6 @@
 main:
 
-  - title: <strong style="color:#2d92f0">Affinity-based Optimizations for TFHE on Processing-in-DRAM</strong>
+  - title: <strong style="color:#2d92f0">"Affinity-based Optimizations for TFHE on Processing-in-DRAM"</strong>
     authors: <strong style="color:#2fd216">Kevin Nam</strong>, Heonhui Jung, Hyunyoung Oh*, Yunheung Paek* (*Corresponding authors)
     conference_short: ASPLOS
     conference: the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong>(ASPLOS)</strong>, 2025.
@@ -11,13 +11,13 @@ main:
     image: ../assets/img/coming_soon.png
     notes: "To Appear, Acceptance Rate : 12%"
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong style="color:#2fd216">Kevin Nam</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    #pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  - title: <strong style="color:#2d92f0">"LOHEN: Layer-wise Optimizations for Neural Network Inferences over Encrypted Data with high Performance or Accuracy"</strong>
+    authors: <strong style="color:#2fd216">Kevin Nam</strong>, Youyeon Joo, Donju Lee, Seungjin Ha, Hyunyoung Oh, Hyungon Moon*, Yunheung Paek* (*Corresponding authors)
+    conference_short: Security
+    conference: the 34th USENIX security symposium <strong>(USENIX Security)</strong>, 2025.
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/SNUSOR-PECT/LOHEN
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ../assets/img/coming_soon.png
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ../assets/img/coming_soon2.png
+    notes: "To Appear, Acceptance Rate : 18%"
