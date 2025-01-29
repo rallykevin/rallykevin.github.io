@@ -3,6 +3,8 @@
 
 You can also refer to my <a href="https://scholar.google.com/citations?user=CsJKBq4AAAAJ&hl=ko">Google Scholar profile</a> for the full list (assuming that google did not miss any of my papers).
 
+* mark denotes corresponding authors.
+
 <div class="publications">
 <ol class="bibliography">
 
