@@ -1,7 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 <br>
 
-You can also refer to my <a href="https://scholar.google.com/citations?user=CsJKBq4AAAAJ&hl=ko">Google Scholar profile</a> for the full list (assuming that google did not miss any of my papers).
+You can also refer to my <a href="https://scholar.google.com/citations?user=CsJKBq4AAAAJ&hl=ko">Google Scholar profile</a> or my CV (press the 'CV' button on the left).
 
 Next to the names, a single star (*) denotes authors who equally contributed, and two stars (**) denotes corresponding authors.
 
