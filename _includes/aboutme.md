@@ -4,7 +4,7 @@ I am a Ph.D candidate studying at Security Optimization Lab (<a href="http://sor
 I hold a Bachelor of Science in Electrical and Computer Engineering from the same university, with a focus on <strong>hardware/system/AI security</strong> and <strong>privacy</strong>.
 I served my mandatory military service at the ROK Air Force.
 
-From back when I was an undergraduate student, I have been deeply passionate about hardware design and computer architecture. I am also currently participating in several research on <strong>high-performance domain-specific computation</strong>. My research interests have expanded since then, including <strong>security</strong> and <strong>privacy-preserving (enhancing) computation</strong>. My current core research topics include fully homomorphic encryption (FHE) , multi-party computation (MPC) , and trusted execution environments (TEEs) to specific applications including customizing and accelerating them.
+From back when I was an undergraduate student, I have been deeply passionate about hardware design and computer architecture. I am also currently participating in several research on <strong>high-performance domain-specific computation</strong>. My research interests have expanded since then, including <strong>security</strong> and <strong>privacy-preserving (enhancing) computation</strong>. My current core research topic is fully homomorphic encryption (FHE), but I also am working on integrating FHE with multi-party computation (MPC) , and trusted execution environments (TEEs) to specific applications including customizing and accelerating them.
 
 You can find most of the information below on my <a href="https://rallykevin.github.io/assets/files/kvnamcv.pdf">Curriculum Vitae</a>, if you prefer accessing via PDF.
 
@@ -34,3 +34,8 @@ Some representative projects with fundings that I have worked on are :
 I also was granted for scholarships
 * <strong>BK21+ Scholarship</strong> by the Ministry of Education of Korea (Mar. 2020-present)
 * <strong>SNU graduate student schoparship</strong> by Seoul National University (Mar. 2022-Feb. 2024)
+
+### Miscellaneous (rather gibberish)
+I used to play baseball a lot as a short-stop position during my undergraduate years. I really wanted to be a pitcher but seems that my elbow is not strong enough even for a university division. I also liked to develop gadgets that I suddenly got interested in, such as 3D printers and scanners, electric wheel for bicycles. I began having hands-on works on computer security during my military service.
+
+I like watching Formula 1. Great fan of Red Bull Racing. Sometimes I also watch Le Mans and Daytona 24 hour races as white noise during coding.
