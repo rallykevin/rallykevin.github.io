@@ -11,3 +11,13 @@ main:
     image: ../assets/img/coming_soon.png
     notes: "To Appear, Acceptance Rate : 12%"
 
+  - title: <strong style="color:#2d92f0">LOHEN: Layer-wise Optimizations for Neural Network Inferences over Encrypted Data with high Performance or Accuracy</strong>
+    authors: <strong style="color:#2fd216">Kevin Nam</strong>, Heonhui Jung, Hyunyoung Oh*, Yunheung Paek* (*Corresponding authors)
+    conference_short: ASPLOS
+    conference: the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong>(ASPLOS)</strong>, 2025.
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/SNUSOR-PECT/DRAMsim3_HBM_PIM
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ../assets/img/coming_soon.png
+    notes: "To Appear, Acceptance Rate : 12%"
