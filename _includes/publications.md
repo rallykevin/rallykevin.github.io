@@ -1,4 +1,5 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<br>
 
 You can also refer to my <a href="[https://sor.snu.ac.kr](https://scholar.google.com/citations?user=CsJKBq4AAAAJ&hl=ko)/">Google Scholar profile</a> for the full list (assuming that google did not miss any of my papers).
 
