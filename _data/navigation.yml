@@ -1,11 +1,11 @@
 main:
 
   - title: "Events"
-    url: /events/ 
+    url: /events/
+    right: true 
 
   - title: "Teaching"
     url: /teaching/
-    right: true 
 
   - title: "Services"
     url: /services/
