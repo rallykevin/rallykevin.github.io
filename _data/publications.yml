@@ -1,14 +1,14 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+  - title: <i strong>(To Appear)</strong> Affinity-based Optimizations for TFHE on Processing-in-DRAM
     authors: <strong style="color:#2fd216">Kevin Nam</strong>, Heonhui Jung, Hyunyoung Oh*, Yunheung Paek* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    conference_short: ASPLOS
+    conference: the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong>(ASPLOS)</strong>, 2025.
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/SNUSOR-PECT/DRAMsim3_HBM_PIM
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ../assets/img/coming_soon.png
-    notes: Early Accept
+    notes: Acceptance Rate : 12%
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
