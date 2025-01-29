@@ -4,7 +4,6 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-<h2 style="margin: 60px 0px 10px;">About Me</h2>
 
 I am a Ph.D candidate studying at Security Optimization Lab (<a href="http://sor.snu.ac.kr/">SORLab</a>) in Seoul National University, advised by professor  <a href="http://sor.snu.ac.kr/document/professors">Yunheung Paek</a>.
 I hold a Bachelor of Science in Electrical and Computer Engineering from the same university, with a focus on hardware/system/AI security and privacy.
