@@ -11,7 +11,7 @@ main:
     image: ../assets/img/coming_soon.png
     notes: "To Appear, Acceptance Rate : 12%"
 
-  - title: LOHEN Layer-wise Optimizations for Neural Network Inferences over Encrypted Data with high Performance or Accuracy
+  - title: LOHEN: Layer-wise Optimizations for Neural Network Inferences over Encrypted Data with high Performance or Accuracy
     authors: Yuanhao Cai, Zihao Xiao, Yixun Liang, Minghan Qin, Yulun Zhang, Xiaokang Yang, <strong>Yaoyao Liu</strong>, Alan Yuille
     conference_short: NeurIPS
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
