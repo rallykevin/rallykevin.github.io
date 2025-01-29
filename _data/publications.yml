@@ -1,20 +1,20 @@
 main:
 
   - title: Affinity-based Optimizations for TFHE on Processing-in-DRAM
-    authors: <strong style="color:#2fd216">Kevin Nam</strong>, Heonhui Jung, Hyunyoung Oh*, Yunheung Paek*
-    conference_short: ASPLOS
-    conference: the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong>(ASPLOS)</strong>, 2025.
+    authors: <strong style="color:#1fcc05">Kevin Nam</strong>, Heonhui Jung, Hyunyoung Oh*, Yunheung Paek*
+    conference_short: ASPLOS`25
+    conference: the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong style="color:#0033d2">(ASPLOS`25)</strong>, 2025.
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/SNUSOR-PECT/DRAMsim3_HBM_PIM
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ../assets/img/coming_soon.png
-    notes: "To Appear, Acceptance Rate : 12%"
+    notes: "Acceptance Rate : 12%"
 
   - title: "LOHEN: Layer-wise Optimizations for Neural Network Inferences over Encrypted Data with high Performance or Accuracy"
-    authors: <strong style="color:#2fd216">Kevin Nam</strong>, Youyeon Joo, Donju Lee, Seungjin Ha, Hyunyoung Oh, Hyungon Moon*, Yunheung Paek*
-    conference_short: USENIX Security
-    conference: the 34th USENIX security symposium <strong>(USENIX Security)</strong>, 2025.
+    authors: <strong style="color:#1fcc05">Kevin Nam</strong>, Youyeon Joo, Donju Lee, Seungjin Ha, Hyunyoung Oh, Hyungon Moon*, Yunheung Paek*
+    conference_short: USENIX Security`25
+    conference: the 34th USENIX security symposium <strong style="color:#0033d2">(USENIX Security`25)</strong>, 2025.
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/SNUSOR-PECT/LOHEN
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -23,7 +23,7 @@ main:
     notes: "To Appear, Acceptance Rate : 18%"
 
   - title: "An Efficient Hardware/Software Co-design for FALCON on Low-End Embedded Systems"
-    authors: Yongseok Lee, Jonghee Youn, <strong style="color:#2fd216">Kevin Nam</strong>, Heonhui Jung, Myunghyun Cho, Jinmyung Na, Jong-Yeon Park, Seungsu Jeon, Bogyeong Kang, Hyunyoung Oh*, Yunheung Paek*
+    authors: Yongseok Lee, Jonghee Youn, <strong style="color:#1fcc05">Kevin Nam</strong>, Heonhui Jung, Myunghyun Cho, Jinmyung Na, Jong-Yeon Park, Seungsu Jeon, Bogyeong Kang, Hyunyoung Oh*, Yunheung Paek*
     conference_short: IEEE Access
     conference: IEEE Access
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10496572
@@ -34,9 +34,9 @@ main:
     #notes: "To Appear, Acceptance Rate : 18%"
 
   - title: "Accelerating N-bit Operations over TFHE on Commodity CPU-FPGA"
-    authors: <strong style="color:#2fd216">Kevin Nam</strong>, Hyunyoung Oh, Hyungon Moon*, Yunheung Paek*
-    conference_short: ICCAD
-    conference: IEEE/ACM International Conference on Computer-Aided Design <strong>(ICCAD)</strong>, 2022.
+    authors: <strong style="color:#1fcc05">Kevin Nam</strong>, Hyunyoung Oh, Hyungon Moon*, Yunheung Paek*
+    conference_short: ICCAD`22
+    conference: IEEE/ACM International Conference on Computer-Aided Design <strong style="color:#0033d2">(ICCAD`22)</strong>, 2022.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3508352.3549413?casa_token=pHQ4xRXjQWEAAAAA:mZYIhoYNdLoZIbUe7uDlVoPOCjJeuYNGq8FIo_pSDYpqwW7KfhTRrbUojll2YaflH4i3WNssqqpz
     #code: https://github.com/SNUSOR-PECT/LOHEN
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -45,7 +45,7 @@ main:
     notes: "Acceptance Rate : 22%"
 
   - title: "MeetGo: A trusted execution environment for remote applications on FPGA"
-    authors: Hyungyoung oh, <strong style="color:#2fd216">Kevin Nam</strong>, Seongil Jeon, Yeongpil Cho*, Yunheung Paek*
+    authors: Hyungyoung oh, <strong style="color:#1fcc05">Kevin Nam</strong>, Seongil Jeon, Yeongpil Cho*, Yunheung Paek*
     conference_short: IEEE Access
     conference: IEEE Access
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9388667
