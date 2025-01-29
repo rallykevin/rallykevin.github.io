@@ -7,11 +7,11 @@ main:
   - title: "Services"
     url: /services/
 
-  - title: "Publications"
-    url: /publications/
-
    - title: "Aboutme"
-    url: /aboutme/   
+    url: /aboutme/     
+
+  - title: "Publications"
+    url: /publications/  
 
   - title: "Home"
     url: /
