@@ -19,10 +19,18 @@ You can find most of the information below on my <a href="https://rallykevin.git
 * <strong>Privacy-Preserving Technique Toolkits:</strong> Microsoft SEAL, OpenFHE, HEaaN, TFHE-rs, OpenCheetah, Intel SGX, AMD SEV, and several others
 
 ### Research Experience
+Some representative projects with fundings that I have worked on are :
 * <strong>Zero-Error Privacy-Preserving Neural Networks</strong> funded by NRF, South Korea (Oct. 2023-present). I am the project leader, designing the overall framework and the FHE transpiler.
 * <strong>Secure FHE Key Management System</strong> funded by CryptoLab (Mar. 2023-Apr. 2024). I was the TEE software engineer.
-* <strong>Neural Network to FHE Transpiler</strong> funded by ETRI (Oct. 2023-Nov. 2024). I was the FHE transpiler engineer.
-* <strong>FPGA Accelerator for FHE</strong> funded by the National Intelligence Service of South Korea (Mar. 2021-Nov. 2021). I was the sole participant, covering from algorithm analysis to system integration.
+* <strong>Neural Network to FHE Transpiler</strong> funded by ETRI (Oct. 2023-Nov. 2024). I was the FHE transpiler engineer devising FHE dialects and translation rules.
+* <strong>PEC Platform Development</strong> funded by the National Intelligence Service of South Korea (Mar. 2022-Nov. 2022). I designed the methodology to weave multiple privacy-preserving techniques together and a methodology that suggests the appropriate privacy-preserving technique for each sub-routines of a given (unencrypted) program.
+* <strong>FPGA Accelerator for FHE</strong> funded by the National Intelligence Service of South Korea (Mar. 2021-Nov. 2021). I was the <strong>sole participant</strong>, covering from algorithm analysis to system integration.
 
 ### Honors and Awards
-I won several awards in several events 
+* <strong>Undang Academic Award</strong> from KIPS, Best Graduate Student Paper Award in Dec. 2021
+* NIPA Director Award from ASK 2023 in Jun. 2023
+* Award for Excellence in TA from Seoul National University in Jan. 2024
+
+I also was granted for scholarships
+* <strong>BK21+ Scholarship</strong> by the Ministry of Education of Korea (Mar. 2020-present)
+* <strong>SNU graduate student schoparship</strong> by Seoul National University (Mar. 2022-Feb. 2024)
