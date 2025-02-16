@@ -1,0 +1,23 @@
+main:
+
+  - title: Affinity-based Optimizations of Homomorphic Encryption Operations on Processing-in-DRAM
+    authors: <strong style="color:#1fcc05">Kevin Nam</strong>, Heonhui Jung, Hyunyoung Oh**, Yunheung Paek**
+    conference_short: DAC`24
+    conference: The 61th ACM/IEEE Design Automation Conference <strong style="color:#e74d3c">(DAC`24)</strong>, 2024.
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    #code: https://github.com/SNUSOR-PECT/DRAMsim3_HBM_PIM
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: ../assets/img/coming_soon.png
+    #notes: "Acceptance Rate : 12%"
+
+  - title: Implementing Efficient, Precise N-bit Operations of TFHE on Commodity CPU-FPGA
+    authors: <strong style="color:#1fcc05">Kevin Nam</strong>, Hyunyoung Oh, Hyungon Moon**, Yunheung Paek**
+    conference_short: DAC`22
+    conference: The 59th ACM/IEEE Design Automation Conference <strong style="color:#e74d3c">(DAC`22)</strong>, 2022.
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    #code: https://github.com/SNUSOR-PECT/DRAMsim3_HBM_PIM
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: ../assets/img/coming_soon.png
+    #notes: "Acceptance Rate : 12%"
