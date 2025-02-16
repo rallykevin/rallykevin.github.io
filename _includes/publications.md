@@ -64,7 +64,7 @@ Next to the names, a single star (*) denotes authors who equally contributed, an
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.intjournal.main %}
 
 <li>
 <div class="pub-row">
