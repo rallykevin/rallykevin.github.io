@@ -1,11 +1,11 @@
-<h3 id="publications" style="margin: 2px 0px -15px;">Publications</h3>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 <br>
 
 You can also refer to my <a href="https://scholar.google.com/citations?user=CsJKBq4AAAAJ&hl=ko">Google Scholar profile</a> or my <a href="https://rallykevin.github.io/assets/files/kvnamcv.pdf">curriculum vitae</a>.
 
 Next to the names, a single star (*) denotes authors who equally contributed, and two stars (**) denotes corresponding authors.
 
-<h2 id="International Conference Papers" style="margin: 2px 0px -15px;">Publications</h2>
+<h3 style="margin: 2px 0px -15px;">International Conference Papers</h3>
 <br>
 
 <div class="publications">
@@ -58,7 +58,7 @@ Next to the names, a single star (*) denotes authors who equally contributed, an
 </ol>
 </div>
 
-<h2 id="International Journal Papers" style="margin: 2px 0px -15px;">Publications</h2>
+<h3 style="margin: 2px 0px -15px;">International Journal Publications</h3>
 <br>
 
 <div class="publications">
