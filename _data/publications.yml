@@ -8,7 +8,7 @@ main:
     code: https://github.com/SNUSOR-PECT/DRAMsim3_HBM_PIM
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ../assets/img/coming_soon.png
+    #image: ../assets/img/coming_soon.png
     notes: "Acceptance Rate : 12%"
 
   - title: "LOHEN: Layer-wise Optimizations for Neural Network Inferences over Encrypted Data with high Performance or Accuracy"
@@ -19,7 +19,7 @@ main:
     code: https://github.com/SNUSOR-PECT/LOHEN
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ../assets/img/coming_soon.png
+    #image: ../assets/img/coming_soon.png
     notes: "Acceptance Rate : 18%"
 
   - title: "Area-Efficient Accelerator for the Full NTRU-KEM Algorithm"
@@ -41,5 +41,5 @@ main:
     #code: https://github.com/SNUSOR-PECT/LOHEN
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ../assets/img/xhec.png
+    #image: ../assets/img/xhec.png
     notes: "Acceptance Rate : 22%"
