@@ -30,7 +30,7 @@ main:
     #code: https://github.com/SNUSOR-PECT/LOHEN
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ../assets/img/coming_soon.png
+    image: ../assets/img/ntru.png
     #notes: "Acceptance Rate : 18%"
 
   - title: "Accelerating N-bit Operations over TFHE on Commodity CPU-FPGA"
