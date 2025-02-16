@@ -22,6 +22,17 @@ main:
     image: ../assets/img/coming_soon.png
     notes: "Acceptance Rate : 18%"
 
+  - title: "Area-Efficient Accelerator for the Full NTRU-KEM Algorithm"
+    authors: Yongseok Lee, <strong style="color:#1fcc05">Kevin Nam</strong>, Youyeon Joo, Jihwan Kim, Hyunyoung Oh**,, Yunheung Paek**
+    conference_short: ICCSA`23
+    conference: The International Conference on Computational Science and Its Applications, 2023.
+    pdf: https://scholarworks.bwise.kr/gachon/bitstream/2020.sw.gachon/92307/1/_ICCSA2023__NTRU.pdf
+    #code: https://github.com/SNUSOR-PECT/LOHEN
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ../assets/img/coming_soon.png
+    #notes: "Acceptance Rate : 18%"
+
   - title: "Accelerating N-bit Operations over TFHE on Commodity CPU-FPGA"
     authors: <strong style="color:#1fcc05">Kevin Nam</strong>, Hyunyoung Oh, Hyungon Moon**, Yunheung Paek**
     conference_short: ICCAD`22
