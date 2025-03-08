@@ -4,9 +4,9 @@ main:
     authors: <strong style="color:#1fcc05">Kevin Nam</strong>, Heonhui Jung, Hyunyoung Oh**, Yunheung Paek**
     conference_short: ASPLOS`25
     conference: The 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong style="color:#e74d3c">(ASPLOS`25)</strong>, 2025.
-    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://doi.org/10.1145/3676641.3716246
     code: https://github.com/SNUSOR-PECT/DRAMsim3_HBM_PIM
-    page: https://doi.org/10.1145/3676641.3716246
+    #page: https://doi.org/10.1145/3676641.3716246
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ../assets/img/coming_soon.png
     notes: "Acceptance Rate : 12%"
@@ -37,9 +37,9 @@ main:
     authors: <strong style="color:#1fcc05">Kevin Nam</strong>, Hyunyoung Oh, Hyungon Moon**, Yunheung Paek**
     conference_short: ICCAD`22
     conference: IEEE/ACM International Conference on Computer-Aided Design <strong style="color:#e74d3c">(ICCAD`22)</strong>, 2022.
-    pdf: https://dl.acm.org/doi/pdf/10.1145/3508352.3549413?casa_token=pHQ4xRXjQWEAAAAA:mZYIhoYNdLoZIbUe7uDlVoPOCjJeuYNGq8FIo_pSDYpqwW7KfhTRrbUojll2YaflH4i3WNssqqpz
+    pdf: https://doi.org/10.1145/3508352.3549413
     #code: https://github.com/SNUSOR-PECT/LOHEN
-    page: https://doi.org/10.1145/3508352.3549413
+    #page: https://doi.org/10.1145/3508352.3549413
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ../assets/img/xhec.png
     notes: "Acceptance Rate : 22%"
