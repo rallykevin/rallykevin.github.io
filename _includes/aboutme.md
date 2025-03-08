@@ -1,10 +1,10 @@
 ## About Me
 
 I am a Ph.D candidate studying at Security Optimization Lab (<a href="http://sor.snu.ac.kr/">SORLab</a>) in Seoul National University, advised by professor  <a href="http://sor.snu.ac.kr/document/professors">Yunheung Paek</a>.
-I hold a Bachelor of Science in Electrical and Computer Engineering from the same university, with a focus on <strong>hardware/system/AI security</strong> and <strong>privacy</strong>.
+I hold a Bachelor of Science in Electrical and Computer Engineering from the same university. My current research topics are focused on <strong>Privacy Enhancing Computing Systems</strong> as well as <strong>Hardware/System/AI Security</strong>.
 I served my mandatory military service at the ROK Air Force.
 
-From back when I was an undergraduate student, I have been deeply passionate about hardware design and computer architecture. I am also currently participating in several research on <strong>high-performance domain-specific computation</strong>. My research interests have expanded since then, including <strong>security</strong> and <strong>privacy-preserving (enhancing) computation</strong>. My current core research topic is <strong>Fully homomorphic encryption (FHE)</strong>, but I am also working on other PETs such as multi-party computation (MPC) and trusted execution environments (TEEs) to run specific applications and customizing them as well as accelerating them.
+Back when I was an undergraduate student, I led a project team to design our own 3D scanner and printer platform. My role was to design an efficient graph translator and stacking algorithm and implement it as a hardware on a customized chip. I had the chance to present our work in CES2016, where several people gave me comments about potential security issues of our platform. That was the moment when I began to be interested in security and privacy research. I have been studying HW security topics such as isolation and Trusted Execution Environments. From 2021, my research interests have expanded to privacy-preserving techniques. My core research vision is to design Privacy Enhacning Computing Systems, where multiple Privacy-Enhancing Techniques (PETs) are adaptively used to preserve the private information of users when running applications such as MLaaS, while offerring competitive performance with the aid of HW acceleration and system optimizations such as customized compilers.
 
 You can find most of the information below on my <a href="https://rallykevin.github.io/assets/files/kvnamcv.pdf">Curriculum Vitae</a>, if you prefer accessing via PDF.
 
@@ -13,10 +13,9 @@ You can find most of the information below on my <a href="https://rallykevin.git
 * Seoul National University, MS/Ph.D combined in Electrical and Computer Engineering (Mar. 2020-present). I am currently a Ph.D candidate.
 
 ### Skills
-* <strong>Languages:</strong> I am fluent in English, French, and Korean. I spent my youth in Sevres and Paris, France. 
-* <strong>Programming Languages:</strong> I mainly use C/C++, Python, HDL verilog, and JAVA. I have been using Rust for some months.
+* <strong>Languages:</strong> I am fluent in Korean, English, and French. I spent my youth in Sevres and Paris, France, and hold a diplomat of DELF B2.
+* <strong>Programming Languages:</strong> I mainly use C/C++, Python, HDL verilog, and JAVA. I have been working with Rust for some time.
 * <strong>Tools/Frameworks:</strong> Vitis, Vivado, Xcellium, Synopsys DC, Tensorflow, Pytorch, Docker, Git, Linux
-* <strong>Privacy-Preserving Technique Toolkits:</strong> Microsoft SEAL, OpenFHE, HEaaN, TFHE-rs, OpenCheetah, Intel SGX, AMD SEV, and several others
 
 ### Research Experience
 Some representative projects with fundings that I have worked on are :
@@ -36,6 +35,6 @@ I also was granted for scholarships
 * <strong>SNU graduate student schoparship</strong> by Seoul National University (Mar. 2022-Feb. 2024)
 
 ### Miscellaneous (rather gibberish)
-I used to play baseball a lot as a short-stop position during my undergraduate years. I really wanted to be a pitcher but seems that my elbow is not strong enough even for a university division. I also liked to develop gadgets that I suddenly got interested in, such as 3D printers and scanners, electric wheel for bicycles. I began having hands-on works on computer security during my military service.
+I used to play baseball a lot as a short-stop position during my undergraduate years. I really wanted to be a pitcher but seems that my elbow is not strong enough even for a university division. I also liked to develop gadgets that I suddenly got interested in such as electric wheel for bicycles. I began having hands-on works on computer security during my military service.
 
 I like watching Formula 1. Great fan of Red Bull Racing. Sometimes I also watch Le Mans and Daytona 24 hour races as white noise during coding.
