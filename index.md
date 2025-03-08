@@ -11,7 +11,7 @@ My current research topics are <strong>Privacy Enhancing Computing Systems</stro
 
 More information can be found in my <a href="https://rallykevin.github.io/assets/files/kvnamcv.pdf">Curriculum Vitae</a>. You can also navigate pages of this webpage including <a href="https://rallykevin.github.io/publications/">Publications</a>. If you are interested or have questions about my research, please feel free to contact me.
 
-<strong style="color:#0729b1"> I am to graduate in Feb. 2026, and am looking for a position where I can continue my research career in academia.</strong>
+<strong style="color:#0729b1"> I am graduating in Feb. 2026, and am looking for a position where I can continue my research career in academia.</strong>
 
 {% include_relative _includes/news.md %}
 
