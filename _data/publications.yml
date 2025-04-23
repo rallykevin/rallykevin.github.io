@@ -15,11 +15,11 @@ main:
     authors: <strong style="color:#1fcc05">Kevin Nam</strong>, Youyeon Joo, Donju Lee, Seungjin Ha, Hyunyoung Oh, Hyungon Moon**, Yunheung Paek**
     conference_short: USENIX Security`25
     conference: The 34th USENIX security symposium <strong style="color:#e74d3c">(USENIX Security`25)</strong>, 2025.
-    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://eprint.iacr.org/2025/713.pdf
     code: https://github.com/SNUSOR-PECT/LOHEN
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ../assets/img/coming_soon.png
+    image: ../assets/img/lohen.png
     notes: "Acceptance Rate : 18%"
 
   - title: "Area-Efficient Accelerator for the Full NTRU-KEM Algorithm"
