@@ -14,7 +14,7 @@ main:
   - title: "LOHEN: Layer-wise Optimizations for Neural Network Inferences over Encrypted Data with high Performance or Accuracy"
     authors: <strong style="color:#1fcc05">Kevin Nam</strong>, Youyeon Joo, Donju Lee, Seungjin Ha, Hyunyoung Oh, Hyungon Moon**, Yunheung Paek**
     conference_short: USENIX Security`25
-    conference: The 34th USENIX security symposium <strong style="color:#e74d3c">(USENIX Security`25)</strong>, 2025.
+    conference: The 34th USENIX Security Symposium <strong style="color:#e74d3c">(USENIX Security`25)</strong>, 2025.
     pdf: https://www.usenix.org/system/files/conference/usenixsecurity25/sec24winter-prepub-430-nam.pdf
     code: https://github.com/SNUSOR-PECT/LOHEN
     #page: https://www.usenix.org/conference/usenixsecurity25/presentation/nam
