@@ -8,7 +8,7 @@ main:
     #code: https://github.com/SNUSOR-PECT/DRAMsim3_HBM_PIM
     #page: https://doi.org/10.1145/3676641.3716246
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ../assets/img/theim.png
+    image: ../assets/img/coming_soon.png
     #notes: "Acceptance Rate : 12%"
 
   - title: Affinity-based Optimizations for TFHE on Processing-in-DRAM
