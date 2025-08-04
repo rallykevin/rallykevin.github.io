@@ -3,7 +3,8 @@
 <h4 style="margin:0 10px 0;">Zero-Error Privacy Preserving Machine Learning</h4>
 
 <ul style="margin:0 0 5px;">
-  <li> SNU AI Health & Care Center Symposium, 2023.12 [<a href="https://www.enewstoday.co.kr/news/articleView.html?idxno=2068671">link</a>]</li>
+  <li> SNU AI Health & Care Center Symposium, Dec 2023 [<a href="https://www.enewstoday.co.kr/news/articleView.html?idxno=2068671">link</a>]</li>
+  <li> Ewha Women University, Sep 2022</li>
 </ul>
 
 <!--
