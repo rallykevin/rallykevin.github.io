@@ -1,3 +1,12 @@
+## Invited Talks
+
+<h4 style="margin:0 10px 0;">Zero-Error Privacy Preserving Machine Learning</h4>
+
+<ul style="margin:0 0 5px;">
+  <li> SNU AI Health & Care Center Symposium, 2023.12 [<a href="https://www.enewstoday.co.kr/news/articleView.html?idxno=2068671">link</a>]</li>
+</ul>
+
+<!--
 <h1 id="invited-talks"></h1>
 
 <h2 style="margin: 60px 0px 10px;">Invited Talks</h2>
@@ -47,3 +56,4 @@
 <ul style="margin:0 0 20px;">
   <li>Nanyang Technological University, July 2019.</li>
 </ul>
+-->
