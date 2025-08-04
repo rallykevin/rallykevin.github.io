@@ -4,11 +4,14 @@ main:
     url: /events/
     right: true 
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Talks"
+    url: /services/
 
   - title: "Services"
     url: /services/
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Publications"
     url: /publications/ 
