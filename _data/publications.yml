@@ -1,6 +1,6 @@
 main:
 
-  - title: "SLOTHE: Lazy Approximation of Non-Arithmetic Neural Network Functions over Encrypted Data (To Appear)"
+  - title: "SLOTHE: Lazy Approximation of Non-Arithmetic Neural Network Functions over Encrypted Data"
     authors: <strong style="color:#1fcc05">Kevin Nam</strong>*, Youyeoon Joo*, Seungjin Ha, Yunheung Paek
     conference_short: USENIX Security`25
     conference: The 34th USENIX Security Symposium <strong style="color:#e74d3c">(USENIX Security`25)</strong>, 2025.
