@@ -4,11 +4,11 @@ main:
     authors: <strong style="color:#1fcc05">Kevin Nam</strong>*, Youyeoon Joo*, Seungjin Ha, Yunheung Paek
     conference_short: USENIX Security`25
     conference: The 34th USENIX Security Symposium <strong style="color:#e74d3c">(USENIX Security`25)</strong>, 2025.
-    #pdf: https://doi.org/10.1145/3676641.3716246
-    #code: https://github.com/SNUSOR-PECT/DRAMsim3_HBM_PIM
+    pdf: https://www.usenix.org/system/files/usenixsecurity25-nam-slothe.pdf
+    code: https://zenodo.org/records/15600623
     #page: https://doi.org/10.1145/3676641.3716246
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ../assets/img/coming_soon.png
+    image: ../assets/img/slothe.png
     #notes: "Acceptance Rate : 12%"
 
   - title: Affinity-based Optimizations for TFHE on Processing-in-DRAM
