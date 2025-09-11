@@ -9,7 +9,7 @@ My research trajectory began with hardware security topics, including monitoring
 
   To this end, I pursue what I call non-mathematical approaches--hardware acceleration, compiler optimization, and algorithm–system co-design--to mitigate the performance bottlenecks of PETs, including Homomorphic Encryption, Secure Multi-Party Computation, and TEEs. Ultimately, my goal is to make privacy-preserving computation as conventional and accessible as everyday computing.
 
-You can find most of the information below on my <a href="https://rallykevin.github.io/assets/files/kvnamcv.pdf">Curriculum Vitae</a>, if you prefer accessing via PDF.
+You can find most of the information below on my <a href="https://rallykevin.github.io/assets/files/kvnamcv.pdf">Curriculum Vitae(CV)</a>, if you prefer accessing via PDF.
 
 ### Education
 * Seoul National University, BS in Electrical and Computer Engineering (Mar. 2014-Feb. 2020). I left for my military service between 2017-2019.
