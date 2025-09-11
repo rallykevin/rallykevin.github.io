@@ -1,9 +1,7 @@
 ## About Me
 
   I am a Ph.D candidate studying at Security Optimization Lab (<a href="http://sor.snu.ac.kr/">SORLab</a>) in Seoul National University, advised by professor  <a href="http://sor.snu.ac.kr/document/professors">Yunheung Paek</a>.
-I hold a Bachelor of Science in Electrical and Computer Engineering from the same university. My current research topics are focused on <strong>Privacy Enhancing Computing Systems</strong> as well as <strong>Hardware/System/AI Security</strong>.
-I served my mandatory military service at the ROK Air Force.
-My research trajectory began with hardware security topics, including monitoring mechanisms and Trusted Execution Environments (TEE), and has since expanded to privacy-enhancing technologies (PETs). In particular, my most recent works focused on on enabling efficient and accurate Machine Learning as a Service over Fully Homomorphic Encryption (FHE).
+I hold a Bachelor of Science in Electrical and Computer Engineering from the same university. I served my mandatory military service at the ROK Air Force. My research trajectory began with hardware security topics, including monitoring mechanisms and Trusted Execution Environments (TEE), and has since expanded to privacy-enhancing technologies (PETs). In particular, my most recent works focused on on enabling efficient and accurate Machine Learning as a Service over Fully Homomorphic Encryption (FHE).
 
   My research vision is to <strong>design efficient Security and Privacy Enhancing Computing Systems<\strong>. While PETs have achieved significant theoretical and mathematical progress, they are still far from widespread deployment due to their computational complexity. I draw inspiration from the history of Artificial Intelligence: envisioned since the 1970s, AI only became practically deployable with 21st-century hardware and software innovations such as GPUs, distributed systems, and large-scale frameworks. I believe PETs can follow a similar path, becoming practical through retrofitted HW/SW innovations, which is the central goal of my research.
 
