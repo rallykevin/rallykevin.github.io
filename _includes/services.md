@@ -3,8 +3,8 @@
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>EuroSys (Shadow Program Committee) 2025 [<a href="https://www.eurosys.org/">link</a>]</li>
-  <li>S&P (Artifact Evaluation Committee) 2026 [<a href="https://sp2026.ieee-security.org/">link</a>]</li>
+  <li>IEEE Symposium on Security and Privacy 2026 (Artifact Evaluation Committee) [<a href="https://sp2026.ieee-security.org/cfartifacts.html">link</a>]</li>
+  <li>EuroSys 2025 (Shadow Program Committee) [<a href="https://www.eurosys.org/">link</a>]</li>
 </ul>
 
 <!--
