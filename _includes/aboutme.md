@@ -19,7 +19,7 @@ You can find most of the information below on my <a href="https://rallykevin.git
 * <strong>Tools/Frameworks:</strong> Vitis, Vivado, Xcellium, Synopsys DC, Tensorflow, Pytorch, Docker, Git, Linux
 
 ### Research Experience
-Some representative projects (with fundings, PI : my advisor, Yunheung Paek) that I have worked on are :
+Some projects (with fundings, PI : my advisor, Yunheung Paek) that I have worked on are :
 * <strong>Privacy-Preserving Neural Network Inference System</strong> funded by NRF, South Korea (Oct. 2023-present). I am the project leader, designing the overall framework and the FHE transpiler.
 * <strong>Secure FHE Key Management System</strong> funded by CryptoLab (Mar. 2023-Apr. 2024). I was the TEE software engineer.
 * <strong>Neural Network to FHE Transpiler</strong> funded by ETRI (Oct. 2023-Nov. 2024). I was the FHE transpiler engineer devising FHE dialects and translation rules.
