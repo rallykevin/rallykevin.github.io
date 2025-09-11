@@ -2,7 +2,7 @@
 
 <ul>
 <li><strong>[Sep. 2025]</strong> I am participating as an Artifact Evaluation Committee member for IEEE S&P 2026.</li>
-<li><strong>[June. 2025]</strong> SLOTHE is accepted to USENIX Security 2025.</li>
+<li><strong>[Jun. 2025]</strong> SLOTHE is accepted to USENIX Security 2025.</li>
 <li><strong>[Jan. 2025]</strong> THEIM is accepted to ASPLOS 2025.</li>
 <li><strong>[Oct. 2024]</strong> I am participating as a EuroSys 2025 Shadow Program Committee member.</li>
 <li><strong>[Aug. 2024]</strong> LOHEN is accepted to USENIX Security 2025.</li>
