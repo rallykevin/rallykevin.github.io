@@ -1,5 +1,16 @@
 main:
 
+  - title: "An Accelerator for Low-computational Overhead Privacy-Preserving GNN Inference"
+    authors: Heonhui Jung*, Whoiree Ha*, <strong style="color:#1fcc05">Kevin Nam</strong>, Youyeon Joo, Lucas Oros, Yunheung Paek
+    conference_short: HiPC`25
+    conference: The 32nd IEEE International Conference on High Performance Computing, Data, and Analytics <strong style="color:#e74d3c">(HiPC`25)</strong>, 2025.
+    #pdf: https://www.usenix.org/system/files/usenixsecurity25-nam-slothe.pdf
+    #code: 
+    #page: https://doi.org/10.1145/3676641.3716246
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ../assets/img/coming_soon.png
+    #notes: "Acceptance Rate : 12%"
+
   - title: "SLOTHE: Lazy Approximation of Non-Arithmetic Neural Network Functions over Encrypted Data"
     authors: <strong style="color:#1fcc05">Kevin Nam</strong>*, Youyeoon Joo*, Seungjin Ha, Yunheung Paek
     conference_short: USENIX Security`25
