@@ -1,7 +1,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Sep. 2025]</strong> Our work on private GNN accelerator is accepted to HiPC 2025. Great job Heonhui!</li>
+<li><strong>[Sep. 2025]</strong> Our work on private GNN accelerator is accepted to HiPC 2025.</li>
 <li><strong>[Sep. 2025]</strong> I am participating as an Artifact Evaluation Committee member for IEEE S&P 2026.</li>
 <li><strong>[Jun. 2025]</strong> SLOTHE is accepted to USENIX Security 2025.</li>
 <li><strong>[Jan. 2025]</strong> THEIM is accepted to ASPLOS 2025.</li>
