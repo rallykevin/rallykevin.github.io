@@ -36,17 +36,16 @@
     <link rel="stylesheet" href="./assets/css/nav.css">
 
     <script type="text/javascript">
-    function toggleVis(link) {
-      // target div is the next sibling element
-      var div = link.nextElementSibling;
-      if (div.style.display === 'none' || div.style.display === '') {
-        div.style.display = 'block';
-        link.textContent = 'Show less';
-      } else {
-        div.style.display = 'none';
-        link.textContent = 'Show more';
+      function toggleVis(link) {
+        var div = document.getElementById('newsmore');
+        if (div.style.display === 'none') {
+          div.style.display = 'block';
+          link.textContent = 'Show less';
+        } else {
+          div.style.display = 'none';
+          link.textContent = 'Show more';
+        }
       }
-    }
     </script>
 
   </head>
