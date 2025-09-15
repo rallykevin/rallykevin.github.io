@@ -10,10 +10,9 @@ Next to the names, a single star (*) denotes authors who equally contributed, an
 
 <div class="publications">
 <ol class="bibliography">
-
-{% for link in site.data.publications.main %}
 <li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
 <div id="newsmore" style="display:none">
+{% for link in site.data.publications.main %}
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
