@@ -48,6 +48,16 @@
       }
     </script>
 
+    <script>
+      function togglePub(targetId, link) {
+        var div = document.getElementById(targetId);
+        if (!div) return;
+        var isHidden = window.getComputedStyle(div).display === 'none';
+        div.style.display = isHidden ? 'block' : 'none';
+        link.textContent = isHidden ? 'Show less' : 'Show more';
+      }
+    </script>
+
   </head>
   <body>
 
