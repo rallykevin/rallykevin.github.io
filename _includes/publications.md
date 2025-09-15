@@ -7,6 +7,8 @@ Next to the names, a single star (*) denotes authors who equally contributed, an
 
 <h3 style="margin: 2px 0px -15px;">International Conference Papers</h3>
 <br>
+<a href="#" onclick="togglePub('confmore', this); return false;">Show more</a>
+<div id="confmore" style="display:none;">
 
 <div class="publications">
 <ol class="bibliography">
@@ -55,6 +57,7 @@ Next to the names, a single star (*) denotes authors who equally contributed, an
 {% endfor %}
 
 </ol>
+</div>
 </div>
 
 <h3 style="margin: 2px 0px -15px;">International Journal Publications</h3>
