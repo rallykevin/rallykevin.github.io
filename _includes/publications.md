@@ -7,11 +7,11 @@ Next to the names, a single star (*) denotes authors who equally contributed, an
 
 <h3 style="margin: 2px 0px -15px;">International Conference Papers</h3>
 <br>
-
-<div class="publications">
-<ol class="bibliography">
 <li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
 <div id="newsmore" style="display:none">
+<div class="publications">
+<ol class="bibliography">
+
 {% for link in site.data.publications.main %}
 <li>
 <div class="pub-row">
