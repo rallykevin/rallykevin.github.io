@@ -11,8 +11,6 @@ I have been studying HW/SW/AI Security and Privacy Enhancing Techniques(PETs), a
 
 More information can be found in my <a href="https://rallykevin.github.io/assets/files/kvnamcv.pdf">Curriculum Vitae (CV)</a>. You can also navigate pages of this webpage including <a href="https://rallykevin.github.io/publications/">Publications</a>. If you are interested or have questions about my research, please feel free to contact me.
 
-<p><strong style="color:#C00000;">I am expected to graduate in February 2026 and am actively seeking future opportunities.</strong></p>
-
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/contact.md %}
