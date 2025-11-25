@@ -1,11 +1,8 @@
 main:
 
-  - title: "Events"
-    url: /events/
-    right: true 
-
   - title: "Talks"
     url: /talks/
+    right: true
 
   - title: "Services"
     url: /services/
