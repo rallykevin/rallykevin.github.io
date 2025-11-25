@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Events
-permalink: /events/
+permalink: /eventlist/
 ---
 
 {% include_relative _includes/events.md %}
