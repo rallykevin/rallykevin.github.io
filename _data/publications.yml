@@ -20,7 +20,7 @@ main:
     #page: https://doi.org/10.1145/3676641.3716246
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ../assets/img/slothe.png
-    #notes: "Acceptance Rate : 12%"
+    notes: "Acceptance Rate : 18%"
 
   - title: Affinity-based Optimizations for TFHE on Processing-in-DRAM
     authors: <strong style="color:#1fcc05">Kevin Nam</strong>, Heonhui Jung, Hyunyoung Oh**, Yunheung Paek**
