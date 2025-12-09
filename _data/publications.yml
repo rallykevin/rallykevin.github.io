@@ -8,7 +8,7 @@ main:
     #code: 
     #page: https://doi.org/10.1145/3676641.3716246
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ../assets/img/coming_soon.png
+    image: ../assets/img/hipc.png
     #notes: "Acceptance Rate : 12%"
 
   - title: "SLOTHE: Lazy Approximation of Non-Arithmetic Neural Network Functions over Encrypted Data"
