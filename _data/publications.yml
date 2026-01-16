@@ -1,5 +1,16 @@
 main:
 
+  - title: "HEPIC: Private Inference over Homomorphic Encryption with Client Intervention"
+    authors: <strong style="color:#1fcc05">Kevin Nam</strong>, Youyeon Joo, Seungjin Ha, Hyungon Moon**, Yunheung Paek**
+    conference_short: ASPLOS`26
+    conference: The 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong style="color:#e74d3c">(ASPLOS`26)</strong>, 2026.
+    #pdf: https://www.usenix.org/system/files/usenixsecurity25-nam-slothe.pdf
+    #code: 
+    #page: https://doi.org/10.1145/3676641.3716246
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ../assets/img/coming_soon.png
+    #notes: "Acceptance Rate : 12%"
+
   - title: "An Accelerator for Low-computational Overhead Privacy-Preserving GNN Inference"
     authors: Heonhui Jung*, Whoiree Ha*, <strong style="color:#1fcc05">Kevin Nam</strong>, Youyeon Joo, Lucas Oros, Yunheung Paek
     conference_short: HiPC`25
