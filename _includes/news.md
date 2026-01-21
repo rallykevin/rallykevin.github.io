@@ -1,7 +1,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Jan. 2026]</strong> HEPIC is accepted to ASPLOS 2026. Great start of the year.</li>
+<li><strong>[Jan. 2026]</strong> HEPIC is accepted to ASPLOS 2026.</li>
 <li><strong>[Nov. 2025]</strong> I am participating as an Artifact Evaluation Committee member for USENIX Security 2026.</li>
 <li><strong>[Sep. 2025]</strong> Our work on HE-based GNN accelerator is accepted to HiPC 2025.</li>
 <li><strong>[Sep. 2025]</strong> I am participating as an Artifact Evaluation Committee member for IEEE S&P 2026.</li>
