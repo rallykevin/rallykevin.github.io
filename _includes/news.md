@@ -14,8 +14,8 @@
   <li><strong>[Oct. 2024]</strong> I am participating as a EuroSys 2025 Shadow Program Committee member.</li>
   <li><strong>[Aug. 2024]</strong> LOHEN is accepted to USENIX Security 2025.</li>
   <li><strong>[Jun. 2023]</strong> I won the ASK 2023 NIPA Director Award.</li>
-  <li><strong>[Dec. 2021]</strong> I won the Undang Academic Award (<a href="https://www.etnews.com/20211222000056">link</a>).</li>
   <li><strong>[Jul. 2022]</strong> XHEC is accepted to ICCAD 2022.</li>
+  <li><strong>[Dec. 2021]</strong> I won the Undang Academic Award (<a href="https://www.etnews.com/20211222000056">link</a>).</li>
 </div>
 
 </ul>
