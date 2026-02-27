@@ -44,3 +44,8 @@ I also was granted for scholarships
 I used to play baseball a lot as a short-stop position during my undergraduate years. I really wanted to be a pitcher but seems that my elbow is not strong enough even for a university division. I also liked to develop gadgets that I suddenly got interested in such as electric wheel for bicycles. I began having hands-on works on computer security during my military service.
 
 I like watching Formula 1. Great fan of Red Bull Racing. Sometimes I also watch WEC races as white noise during coding.
+
+### Test
+
+<img src="~@source/../asset/img/lohen.png" />
+
