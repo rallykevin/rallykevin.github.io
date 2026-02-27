@@ -47,5 +47,5 @@ I like watching Formula 1. Great fan of Red Bull Racing. Sometimes I also watch 
 
 ### Test
 
-<img src="~@source/../asset/img/lohen.png" />
+<img src="~@source/./asset/img/lohen.png" />
 
