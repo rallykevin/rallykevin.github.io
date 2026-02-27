@@ -9,7 +9,7 @@ I received my Ph.D degree in Seoul National University, advised by professor  <a
 
 I have been studying HW/SW/AI Security and Privacy Enhancing Techniques(PETs), and domain-specific Acceleration during my Ph.D. period, focusing on performance and accuracy enhancements of Systems for Privacy-Preserving AI over FHE (using HW acceleration, compiler/mapping/scheduling optimizations). My current research topics are very broad, including :
 
-* Diverse PRivacy-Enhancing Techniques (FHE, MPC, ZKP, DP, FL) for diverse AI applications (RAG, LLM, MCP, On-device AI)
+* Diverse Privacy-Enhancing Techniques (FHE, MPC, ZKP, DP, FL) for diverse AI applications (RAG, LLM, MCP, On-device AI)
 * Integrating Hardware and System Security measurements (such as TEEs) with PETs for practical use
 * Accelerators and Side-channel attacks for/against Post-Quantum Cryptography
 * Using AI for security purpose, such as automatic generation of flawless programs
