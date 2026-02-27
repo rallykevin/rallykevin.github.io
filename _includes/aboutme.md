@@ -47,4 +47,6 @@ I like watching Formula 1. Great fan of Red Bull Racing. Sometimes I also watch 
 
 ### Test
 
-한글도 테스트를 해보자.
+<center>
+<img src="~@source/../../assets/img/lohen.png" />
+</center>
