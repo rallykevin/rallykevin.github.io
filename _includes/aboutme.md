@@ -45,8 +45,12 @@ I used to play baseball a lot as a short-stop position during my undergraduate y
 
 I like watching Formula 1. Great fan of Red Bull Racing. Sometimes I also watch WEC races as white noise during coding.
 
-### Test
-
+<!--
 <center>
-<img src="~@source/../../assets/img/lohen.png" />
+<img 
+  src="~@source/../../assets/img/lohen.png"
+  width="50%"
+  height="50%"
+/>
 </center>
+-->
