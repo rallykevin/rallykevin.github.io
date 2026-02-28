@@ -1,6 +1,6 @@
 <h1 id="teaching"></h1>
 
-<h3 style="margin: 60px 0px -15px;">2026</h3>
+<h3 style="margin: 60px 0px -15px;">2026 at KHU</h3>
 <br>
 
 - [컴퓨터네트워크-Computer Network] (CSE302-03)
