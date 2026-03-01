@@ -11,7 +11,7 @@ I am an Assistant Professor in the Department of Computer Engineering at Kyung H
 * Accelerators and Side-channel attacks for/against Post-Quantum Cryptography
 * Using AI for security purpose, such as automatic generation of flawless programs
 
-More information can be found in my <a href="https://rallykevin.github.io/assets/files/kvnamcv.pdf">Curriculum Vitae (CV)</a>. You can also navigate pages of this webpage including <a href="https://rallykevin.github.io/publications/">Publications</a>. If you are interested or have questions about my research, please feel free to contact me.
+I earned my Ph.D. degree from Seoul National University. More information can be found in my <a href="https://rallykevin.github.io/assets/files/kvnamcv.pdf">Curriculum Vitae (CV)</a>. You can also navigate pages of this webpage including <a href="https://rallykevin.github.io/publications/">Publications</a>. If you are interested or have questions about my research, please feel free to contact me.
 
 {% include_relative _includes/news.md %}
 
