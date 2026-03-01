@@ -4,10 +4,7 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-I am an Assistant Professor in the Department of Computer Engineering at Kyung Hee University.
-I received my Ph.D degree in Seoul National University, advised by professor  <a href="http://sor.snu.ac.kr/document/professors">Yunheung Paek</a>.
-
-I have been studying HW/SW/AI Security and Privacy Enhancing Techniques(PETs), and domain-specific Acceleration during my Ph.D. period, focusing on performance and accuracy enhancements of Systems for Privacy-Preserving AI over FHE (using HW acceleration, compiler/mapping/scheduling optimizations). My current research topics are very broad, including :
+I am an Assistant Professor in the Department of Computer Engineering at Kyung Hee University, leading the <a href="http://spicslab.kr">Secure and Private Intelligence Computing Systems Lab</a>. As the name suggests, we work on topics about HW/SW/AI Security and Privavy, including :
 
 * Diverse Privacy-Enhancing Techniques (FHE, MPC, ZKP, DP, FL) for diverse AI applications (RAG, LLM, MCP, On-device AI)
 * Integrating Hardware and System Security measurements (such as TEEs) with PETs
