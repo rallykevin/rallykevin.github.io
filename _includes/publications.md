@@ -6,6 +6,9 @@ You can also refer to my <a href="https://scholar.google.com/citations?user=CsJK
 Next to the names, a single star (*) denotes authors who equally contributed, and two stars (**) denotes corresponding authors.
 
 <h3 style="margin: 2px 0px -15px;">International Conference Papers</h3>
+
+<details>
+  <summary>Open/Close</summary>
 <br>
 
 <div class="publications">
@@ -51,6 +54,8 @@ Next to the names, a single star (*) denotes authors who equally contributed, an
 </div>
 </li>
 <br>
+
+</details>
 
 {% endfor %}
 
