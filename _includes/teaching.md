@@ -5,6 +5,7 @@
 <ul style="margin:0 0 5px;">
   <li> [컴퓨터네트워크-Computer Network] (CSE302-03)</li>
   <li> [소프트웨어공학-Software Engineering] (CSE327-01)</li>
+  <li> [캡스톤디자인-Capstone Design] (CSE406-15)</li>
 </ul>
 
 
