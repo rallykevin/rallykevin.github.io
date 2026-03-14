@@ -62,6 +62,9 @@ Next to the names, a single star (*) denotes authors who equally contributed, an
 </details>
 
 <h3 style="margin: 2px 0px -15px;">International Journal Publications</h3>
+
+<details>
+  <summary>Open/Close</summary>
 <br>
 
 <div class="publications">
@@ -113,12 +116,17 @@ Next to the names, a single star (*) denotes authors who equally contributed, an
 
 </ol>
 </div>
+</details>
 
 <h3 style="margin: 2px 0px -15px;">International Poster Presentations</h3>
+
+<details>
+  <summary>Open/Close</summary>
 <br>
 
 <ul style="margin:0 0 5px;">
   <li>Kevin Nam, Heonhui Jung, Hyunyoung Oh**, Yunheung Paek**, "Affinity-based Optimizations of Homomorphic Encryption Operations on Processing-in-DRAM" in the 61th ACM/IEEE Design Automation Conference Work-in-Progress (DAC`24 WiP), 2024</li>
     <li>Kevin Nam, Hyunyoung Oh, Hyungon Moon**, Yunheung Paek**, "Implementing Efficient, Precise N-bit Operations of TFHE on Commodity CPU-FPGA" in the 59th ACM/IEEE Design Automation Conference Work-in-Progress (DAC`22 WiP), 2022</li>
 </ul>
+</details>
 
