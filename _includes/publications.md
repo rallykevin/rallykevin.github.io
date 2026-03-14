@@ -61,10 +61,10 @@ Next to the names, a single star (*) denotes authors who equally contributed, an
 </div>
 </details>
 
-<h3 style="margin: 2px 0px -15px;">International Journal Publications</h3>
+<h3 style="margin: 2px 0px -5px;">International Journal Publications</h3>
 
 <details>
-  <summary>Open/Close</summary>
+  <summary style="padding-bottom: 0px; margin-bottom: -10px;">Open/Close</summary>
 <br>
 
 <div class="publications">
@@ -118,7 +118,7 @@ Next to the names, a single star (*) denotes authors who equally contributed, an
 </div>
 </details>
 
-<h3 style="margin: 2px 0px -15px;">International Poster Presentations</h3>
+<h3 style="margin: 2px 0px -5px;">International Poster Presentations</h3>
 
 <details>
   <summary>Open/Close</summary>
