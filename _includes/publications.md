@@ -55,12 +55,11 @@ Next to the names, a single star (*) denotes authors who equally contributed, an
 </li>
 <br>
 
-</details>
-
 {% endfor %}
 
 </ol>
 </div>
+</details>
 
 <h3 style="margin: 2px 0px -15px;">International Journal Publications</h3>
 <br>
