@@ -5,7 +5,7 @@ You can also refer to my <a href="https://scholar.google.com/citations?user=CsJK
 
 Next to the names, a single star (*) denotes authors who equally contributed, and two stars (**) denotes corresponding authors.
 
-<h3 style="margin: 2px 0px -10px;">International Conference Papers</h3>
+<h3 style="margin: 2px 0px -5px;">International Conference Papers</h3>
 
 <details>
   <summary>Open/Close</summary>
