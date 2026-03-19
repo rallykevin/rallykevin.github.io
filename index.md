@@ -21,7 +21,7 @@ layout: homepage
 
 .notice {
   position: relative;
-  width: min(1000px, 90vw);
+  width: min(560px, 90vw);
   background: white;
   border: 1px solid #ccc;
   border-radius: 12px;
