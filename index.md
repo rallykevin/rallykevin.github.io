@@ -2,6 +2,44 @@
 layout: homepage
 ---
 
+<div id="site-notice" class="notice">
+  <button class="notice-close" onclick="closeNotice()">×</button>
+  <strong>Notice</strong><br>
+  This website has been updated.
+</div>
+
+<style>
+.notice {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 280px;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  padding: 16px;
+  z-index: 1000;
+  font-size: 14px;
+}
+
+.notice-close {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  border: none;
+  background: transparent;
+  font-size: 18px;
+  cursor: pointer;
+}
+</style>
+
+<script>
+function closeNotice() {
+  document.getElementById("site-notice").style.display = "none";
+}
+</script>
+
 <h1 id="about-me"></h1>
 
 I am an Assistant Professor in the Department of Computer Engineering at Kyung Hee University, leading the <a href="http://spicslab.kr">Secure and Private Intelligence Computing Systems Lab</a>. As the name suggests, we work on topics about HW/SW/AI Security and Privavy, including :
