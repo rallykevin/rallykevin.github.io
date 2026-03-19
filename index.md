@@ -5,22 +5,22 @@ layout: homepage
 <div id="site-notice" class="notice">
   <button class="notice-close" onclick="closeNotice()">×</button>
   <strong>Notice</strong><br>
-  This website has been updated.
+  We are building up a Task Force on AI Safety Topics with several university and company research labs. This TF will work on need people interested in AI, but also people with different expertise too, such as  system programming, applied crypto, and other experience. If interested, please send an email to the PI.
 </div>
 
 <style>
 .notice {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
-  width: 280px;
+  bottom: 10px;
+  right: 10px;
+  width: 560px;
   background: white;
   border: 1px solid #ccc;
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   padding: 16px;
-  z-index: 1000;
-  font-size: 14px;
+  z-index: 500;
+  font-size: 20px;
 }
 
 .notice-close {
@@ -29,7 +29,7 @@ layout: homepage
   right: 10px;
   border: none;
   background: transparent;
-  font-size: 18px;
+  font-size: 24px;
   cursor: pointer;
 }
 </style>
