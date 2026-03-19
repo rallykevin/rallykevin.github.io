@@ -2,51 +2,6 @@
 layout: homepage
 ---
 
-<div id="site-notice" class="notice">
-  <button class="notice-close" onclick="closeNotice()">×</button>
-  <strong>Notice</strong><br>
-  We are building up a Task Force on AI Safety Topics with several university and company research labs. This TF will work on need people interested in AI, but also people with different expertise too, such as  system programming, applied crypto, and other experience. If interested, please send an email to the PI.
-</div>
-
-<style>
-.notice-overlay {
-  position: fixed;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.35);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 1000;
-}
-
-.notice {
-  position: relative;
-  width: min(560px, 90vw);
-  background: white;
-  border: 1px solid #ccc;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  padding: 20px 16px 16px 16px;
-  text-align: center;
-}
-
-.notice-close {
-  position: absolute;
-  top: 8px;
-  right: 10px;
-  border: none;
-  background: transparent;
-  font-size: 24px;
-  cursor: pointer;
-}
-</style>
-
-<script>
-function closeNotice() {
-  document.getElementById("site-notice").style.display = "none";
-}
-</script>
-
 <h1 id="about-me"></h1>
 
 I am an Assistant Professor in the Department of Computer Engineering at Kyung Hee University, leading the <a href="http://spicslab.kr">Secure and Private Intelligence Computing Systems Lab</a>. As the name suggests, we work on topics about HW/SW/AI Security and Privavy, including :
