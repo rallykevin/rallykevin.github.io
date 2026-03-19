@@ -9,18 +9,25 @@ layout: homepage
 </div>
 
 <style>
-.notice {
+.notice-overlay {
   position: fixed;
-  bottom: 10px;
-  right: 10px;
-  width: 560px;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.notice {
+  position: relative;
+  width: min(1000px, 90vw);
   background: white;
   border: 1px solid #ccc;
-  border-radius: 10px;
+  border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  padding: 16px;
-  z-index: 500;
-  font-size: 20px;
+  padding: 20px 16px 16px 16px;
+  text-align: center;
 }
 
 .notice-close {
