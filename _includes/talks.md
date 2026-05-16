@@ -1,7 +1,7 @@
 ## Invited Talks
 
-<h4 style="margin:0 10px 0;">Hybrid Agentic <li> AI System Security and Privacy</h4>
-  li> Saesol Tech, May 2026</li>
+<h4 style="margin:0 10px 0;">Hybrid Agentic AI System Security and Privacy</h4>
+  <li> Saesol Tech, May 2026</li>
 
 <h4 style="margin:0 10px 0;">Zero-Error Privacy Preserving Machine Learning</h4>
 
