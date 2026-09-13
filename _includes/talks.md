@@ -6,14 +6,17 @@
   <li> 정보과학회 WDSC워크샵, August 2026</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Hybrid Agentic AI System Security and Privacy</h4>
+<h4 style="margin:0 10px 0;">FHE Hardware Acceleration</h4>
+<ul style="margin:0 0 5px;">
+  <li> 한국전자통신연구원 (ETRI) 수도권연구센터, September 2026</li>
+</ul>
 
+<h4 style="margin:0 10px 0;">Hybrid Agentic AI System Security and Privacy</h4>
 <ul style="margin:0 0 5px;">
   <li> Saesol Tech, May 2026</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Zero-Error Privacy Preserving Machine Learning</h4>
-
 <ul style="margin:0 0 5px;">
   <li> SNU AI Health & Care Center Symposium, Dec 2023 [<a href="https://www.enewstoday.co.kr/news/articleView.html?idxno=2068671">link</a>]</li>
   <li> Ewha Women University, Sep 2022</li>
