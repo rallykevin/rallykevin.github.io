@@ -5,6 +5,8 @@
 <ul style="margin:0 0 5px;">
   <li> [컴퓨터네트워크-Computer Network] (CSE302) - Spring</li>
   <li> [소프트웨어공학-Software Engineering] (CSE327) - Spring/Fall</li>
+  <li> [캡스톤 디자인-Capstone Design] (CSE406) - Fall</li>
+  <li> [소프트웨어공학-Software Engineering] (CSE327) - Spring/Fall</li>
 </ul>
 
 
