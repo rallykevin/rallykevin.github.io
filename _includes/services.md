@@ -3,6 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Program Commitee</h4>
 
 <ul style="margin:0 0 5px;">
+  <li>Design Automation and Test In Europe Conference (DATE) 2027</li>
   <li>USENIX Security Symposium 2027</li>
   <li>The ACM ASIA Conference on Computer and Communications Security (AsiaCCS) 2027</li>
   <li>USENIX Security Symposium 2026 (Artifact Evaluation Committee) [<a href="https://www.usenix.org/conference/usenixsecurity26/call-for-artifacts">link</a>]</li>
