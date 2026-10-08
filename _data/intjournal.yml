@@ -1,5 +1,27 @@
 main:
 
+  - title: "Design Space Exploration of Efficient FPGA-based Accelerators for Homomorphically Encrypted CNN Inference"
+    authors: Whoi Ree Ha, Dongju Lee, Yongseok Lee, <strong style="color:#1fcc05">Kevin Nam</strong>, Sunwoong Kim, Yunheung Paek
+    conference_short: IEEE TCAD
+    conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+    #pdf:
+    #code: https://github.com/SNUSOR-PECT/LOHEN
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ../assets/img/coming_soon.png
+    #notes: "To Appear, Acceptance Rate : 18%"
+
+  - title: "MeetGo: A trusted execution environment for remote applications on FPGA"
+    authors: Hyungyoung oh, <strong style="color:#1fcc05">Kevin Nam</strong>, Seongil Jeon, Yeongpil Cho**, Yunheung Paek**
+    conference_short: IEEE Access
+    conference: IEEE Access
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9388667
+    #code: https://github.com/SNUSOR-PECT/LOHEN
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ../assets/img/meetgo.png
+    #notes: "To Appear, Acceptance Rate : 18%"
+
   - title: "PCPSI: Efficient Unbalanced Private Set Intersection Using Homomorphic Encryption With Plaintext–Ciphertext Multiplication"
     authors: Dongju Lee, Sungyeon Lee, Youyeon Joo, <strong style="color:#1fcc05">Kevin Nam**</strong>,  Yunheung Paek**
     conference_short: IEEE Access
