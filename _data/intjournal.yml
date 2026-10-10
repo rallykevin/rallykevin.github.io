@@ -43,14 +43,3 @@ main:
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ../assets/img/falcon.png
     #notes: "To Appear, Acceptance Rate : 18%"
-
-  - title: "MeetGo: A trusted execution environment for remote applications on FPGA"
-    authors: Hyungyoung oh, <strong style="color:#1fcc05">Kevin Nam</strong>, Seongil Jeon, Yeongpil Cho**, Yunheung Paek**
-    conference_short: IEEE Access
-    conference: IEEE Access
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9388667
-    #code: https://github.com/SNUSOR-PECT/LOHEN
-    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ../assets/img/meetgo.png
-    #notes: "To Appear, Acceptance Rate : 18%"
