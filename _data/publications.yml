@@ -1,5 +1,12 @@
 main:
 
+  - title: "They Will See Johnny's Message: A Measurement Study of Post-Quantum Cryptography Across Email Delivery Paths"
+    authors: Jaehwan Park, Sunghyun Park, <strong style="color:#1fcc05">Kevin Nam</strong>, Doowon Kim
+    conference_short: arXiv`26
+    conference: arXiv preprint arXiv:2610.36145, 2026.
+    pdf: https://arxiv.org/pdf/2610.36145
+    image: ../assets/img/coming_soon.png
+
   - title: "HEPIC: Private Inference over Homomorphic Encryption with Client Intervention"
     authors: <strong style="color:#1fcc05">Kevin Nam</strong>, Youyeon Joo, Seungjin Ha, Hyungon Moon**, Yunheung Paek**
     conference_short: ASPLOS`26
