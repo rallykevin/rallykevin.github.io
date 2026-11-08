@@ -3,7 +3,7 @@ main:
   - title: "HORT: Fast and Secure TEE-Assisted Homomorphic Encryption in the Cloud"
     authors: Yunseong Hwang*, Heonhui Jung*, Junseung You, Jiwan Seo, <strong style="color:#1fcc05">Kevin Nam**</strong>, Yunheung Paek**
     conference_short: IJIS
-    conference: International Journal of Information Security <strong>(SCIE Q1)</strong>
+    conference: Springer International Journal of Information Security <strong>(SCIE Q1)</strong>
     image: ../assets/img/coming_soon.png
     notes: "To Appear"
 
