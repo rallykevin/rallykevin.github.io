@@ -1,7 +1,7 @@
 main:
 
   - title: "They Will See Johnny's Message: A Measurement Study of Post-Quantum Cryptography Across Email Delivery Paths"
-    authors: Jaehwan Park, Sunghyun Park, <strong style="color:#1fcc05">Kevin Nam</strong>, Doowon Kim
+    authors: Jaehwan Park, Sunghyun Park, <strong style="color:#1fcc05">Kevin Nam**</strong>, Doowon Kim**
     conference_short: arXiv`26
     conference: arXiv preprint arXiv:2610.36145, 2026.
     pdf: https://arxiv.org/pdf/2610.36145
