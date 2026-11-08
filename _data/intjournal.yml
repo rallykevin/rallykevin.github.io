@@ -11,7 +11,7 @@ main:
     authors: Whoi Ree Ha, Dongju Lee, Yongseok Lee, <strong style="color:#1fcc05">Kevin Nam</strong>, Sunwoong Kim, Yunheung Paek
     conference_short: IEEE TCAD
     conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems <strong>(SCIE Q2)</strong>
-    #pdf:
+    pdf: https://doi.org/10.1109/TCAD.2026.3744539
     #code: https://github.com/SNUSOR-PECT/LOHEN
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://bib.yliu.me/MICCAI23.txt
