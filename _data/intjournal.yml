@@ -1,5 +1,12 @@
 main:
 
+  - title: "HORT: Fast and Secure TEE-Assisted Homomorphic Encryption in the Cloud"
+    authors: Yunseong Hwang*, Heonhui Jung*, Junseung You, Jiwan Seo, <strong style="color:#1fcc05">Kevin Nam**</strong>, Yunheung Paek**
+    conference_short: IJIS
+    conference: International Journal of Information Security
+    image: ../assets/img/coming_soon.png
+    notes: "To Appear, SCIE Q1"
+
   - title: "Design Space Exploration of Efficient FPGA-based Accelerators for Homomorphically Encrypted CNN Inference"
     authors: Whoi Ree Ha, Dongju Lee, Yongseok Lee, <strong style="color:#1fcc05">Kevin Nam</strong>, Sunwoong Kim, Yunheung Paek
     conference_short: IEEE TCAD
@@ -9,7 +16,7 @@ main:
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ../assets/img/coming_soon.png
-    #notes: "To Appear, Acceptance Rate : 18%"
+    notes: "SCIE Q2"
 
   - title: "MeetGo: A trusted execution environment for remote applications on FPGA"
     authors: Hyungyoung oh, <strong style="color:#1fcc05">Kevin Nam</strong>, Seongil Jeon, Yeongpil Cho**, Yunheung Paek**
